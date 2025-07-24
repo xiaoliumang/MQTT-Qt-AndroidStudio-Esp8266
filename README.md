@@ -2,7 +2,7 @@
 
 主要原理：主要通过mqtt协议来进行通讯
 
-![img](file:///img\wps1.jpg) 
+![image]([MQTT-Qt-AndroidStudio-Esp8266/img/wps1.jpg at main · xiaoliumang/MQTT-Qt-AndroidStudio-Esp8266 (github.com)](https://github.com/xiaoliumang/MQTT-Qt-AndroidStudio-Esp8266/blob/main/img/wps1.jpg) 
 
 服务器部署：mosquitto（mqtt）
 
