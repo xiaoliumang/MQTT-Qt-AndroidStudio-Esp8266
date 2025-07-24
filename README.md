@@ -8,8 +8,8 @@
 
 客户端：qt开发接受mqtt信息，并作出相应的行动
 
-![img](file:///img\wps2.jpg) 
+![image](https://github.com/xiaoliumang/MQTT-Qt-AndroidStudio-Esp8266/blob/main/img/wps2.jpg) 
 
 安卓端：部署两个界面，一个用于登录，一个用于控制
 
-![img](file:///img\wps3.jpg)![img](file:///img\wps4.jpg) 
+![image](https://github.com/xiaoliumang/MQTT-Qt-AndroidStudio-Esp8266/blob/main/img/wps3.jpg)![image](https://github.com/xiaoliumang/MQTT-Qt-AndroidStudio-Esp8266/blob/main/img/wps4.jpg) 
