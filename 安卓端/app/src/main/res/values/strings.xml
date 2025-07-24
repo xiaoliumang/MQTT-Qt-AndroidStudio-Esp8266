@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">androidMqtt</string>
+    <string name="login_page_title">服务器连接</string>
+    <string name="student_id_hint">请输入IP地址</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="student_id_label">IP：</string>
+    <string name="password_label">密码：</string>
+    <string name="login_button_text">连接</string>
+</resources>
